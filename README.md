@@ -1,2 +1,2 @@
 # https://johanhar88.github.io/responsive-portfolio_Johan/
-Responsive portfolio build with HTML, CSS, Javascript and ScrollReveal.js
+A responsive portfolio built with HTML, CSS, Javascript, and ScrollReveal.js
